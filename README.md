@@ -1,7 +1,7 @@
 # Data Analysis and Predictive Models Using VCT 2023 Data  
 
 ## Introduction and Dataset  
-Valorant was my first video game that introduced me to the world of esports through the Valorant Champions Tour (VCT), and as I further my journey in data science, I knew I wanted to pursue a project on it. I will be using [this Kaggle dataset](https://www.kaggle.com/datasets/ediashtarevin/vct-champions-2023-stats?resource=download) based on the 2023 tournament results for the majority of the project, and will be explaining useful game terms as we go along.  
+Valorant was my introduction not only into first-person shooter video games, but also the world of esports through the Valorant Champions Tour (VCT). As I further my journey in data science, I knew I wanted to pursue a project on it. I will be using [this Kaggle dataset](https://www.kaggle.com/datasets/ediashtarevin/vct-champions-2023-stats?resource=download) based on the 2023 season results for the majority of the project, and will be explaining useful game terms as we go along.  
 
 ## Data Exploration  
 There are 6,230 rows/observations and 23 columns/features in this dataset. The features are as follow:  
