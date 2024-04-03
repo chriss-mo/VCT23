@@ -5,6 +5,6 @@ Valorant was my first video game that introduced me to the world of esports thro
 
 ## Data Exploration  
 There are 6,230 rows/observations and 23 columns/features in this dataset. The features are as follow:  
-**`match_id`:** corresponds to the unique number assigned to the best of 3 (or 5 for finals games) that a team plays.  
-**`game_id`:** corresponds to each map within the best of 3 or 5 that the team plays. Thus, for each `match_id`, there are anywhere between 2 to 5 `game_id`'s within them.  
-
+** `match_id`: ** the unique number assigned to the best of 3 (or 5 for finals games) that a team plays.  
+** `game_id`: ** each map within the best of 3 or 5 that the team plays. For each `match_id`, there are anywhere between 2 to 5 `game_id`'s.  
+** `team`: ** rep
